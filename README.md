@@ -2,7 +2,6 @@
 - I'm a Software Engineer. My specialty is developing Mobile Apps with Flutter
 - I also have knowledge with Web development.
 - I am always looking for new challenges and learning the latest technologies to offer the best solutions.
-
 ### My Stack
 <div style="display: inline_block">
   <img align="center" alt="José-Flutter" height="90" width="90" src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg">
@@ -15,7 +14,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-## Contact
+### Contact
 <a href="https://www.linkedin.com/in/jos%C3%A9-sunga-848753188/?trk=opento_sprofile_details" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-josedeneto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
