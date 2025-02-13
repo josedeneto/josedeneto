@@ -14,8 +14,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://logospng.org/wp-content/uploads/tailwind-css.png">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://www.svgrepo.com/show/303360/nodejs-logo.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg">
 </div>
 
 ### Contact
